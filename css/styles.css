@@ -175,6 +175,7 @@ ul.nav-items {
   padding-top: 3rem;
   height: 90vh;
   background-color: rgba(213, 220, 220, 0.178);
+  clip-path: ellipse(73% 58% at 48% 36%);
 }
 
 .hero-banner > .container {
